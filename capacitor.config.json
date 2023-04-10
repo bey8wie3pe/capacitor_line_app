@@ -1,0 +1,11 @@
+{
+  "appId": "com.sagety_check_app.app",
+  "appName": "安全確認アプリ",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
